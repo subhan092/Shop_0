@@ -1,4 +1,4 @@
-# Multi-Vendor Marketplace
+# Shop0
 
 This project is a **Multi-Vendor Marketplace** built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js). The platform allows multiple vendors to sell products, manage orders, and interact with buyers. Buyers can browse products, add them to the cart, and checkout using secure payment options.
 
